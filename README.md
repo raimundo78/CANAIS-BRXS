@@ -1,5 +1,4 @@
-1
-#EXTM3U 
+
 #EXTM3U 
 #EXTINF:-1 tvg-id="Nova play HD "
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist.m3u8
